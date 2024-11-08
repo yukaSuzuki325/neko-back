@@ -1,0 +1,7 @@
+.env
+# Ignore Node modules
+node_modules/
+
+# Ignore build output
+dist/
+build/
